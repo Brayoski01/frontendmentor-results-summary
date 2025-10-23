@@ -181,7 +181,7 @@ body{
 }
 
 /* responsive design*/
-@media(max-width: 700px){
+@media(max-width: 600px){
     .container{
         width: 100%;
     }
@@ -198,4 +198,5 @@ body{
         margin-right: 30px;
     }
 }
+
 

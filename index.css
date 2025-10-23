@@ -180,3 +180,22 @@ body{
 
 }
 
+/* responsive design*/
+@media(max-width: 700px){
+    .container{
+        width: 100%;
+    }
+
+    .result-side, .summary-side{
+        width: 100%;
+    }
+
+    .reaction, .Memory, .verbal, .Visual{
+        width: 70%;
+    }
+
+    .reaction-text, .memory-text, .verbal-text, .visual-text{
+        margin-right: 30px;
+    }
+}
+

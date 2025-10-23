@@ -195,8 +195,13 @@ body{
     }
 
     .reaction-text, .memory-text, .verbal-text, .visual-text{
-        margin-right: 30px;
+        margin-right: 20px;
+    }
+
+    .button{
+        width: 50%;
     }
 }
+
 
 
